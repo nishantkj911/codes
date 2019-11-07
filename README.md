@@ -1,6 +1,6 @@
-# hello-world
+# codes
 
-Hi humans!
+Yo
 
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth Tacos.
+This is a repository for storing all the random coding done at any point.
+Feel free to download any code but don't upload any without my permission (which you won't get anyway).
